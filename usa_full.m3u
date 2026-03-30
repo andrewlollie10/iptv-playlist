@@ -1,0 +1,88 @@
+#EXTM3U
+
+########################
+# 📰 NEWS
+########################
+#EXTINF:-1 group-title="News",ABC News Live
+https://abcnews-live.akamaized.net/hls/live/2023560/abcnewslive/master.m3u8
+
+#EXTINF:-1 group-title="News",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/master.m3u8
+
+#EXTINF:-1 group-title="News",NBC News Now
+https://nbcnews-stream.akamaized.net/hls/live/2639837/nbcnews/master.m3u8
+
+#EXTINF:-1 group-title="News",Bloomberg TV
+https://bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 group-title="News",Sky News (US feed)
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra/master.m3u8
+
+########################
+# 🏈 SPORTS (FREE)
+########################
+#EXTINF:-1 group-title="Sports",Stadium
+https://stadium-live.streamguys1.com/live/stadium/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 group-title="Sports",Fubo Sports Network
+https://dai.google.com/linear/hls/event/8VvS9J0rRZ6S3s5kF0Zk4w/master.m3u8
+
+########################
+# 🎬 ENTERTAINMENT
+########################
+#EXTINF:-1 group-title="Entertainment",Pluto TV Movies
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f7a650b8b8202c8daf/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Pluto TV Comedy
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bb4a2c0f0e30e0021b1d2d9/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Pluto TV Action
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ae9d7a85c60009b4e7a0/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",FilmRise Free Movies
+https://dai.google.com/linear/hls/event/6zKk9W8xT2S3R8L7l9c0Zw/master.m3u8
+
+########################
+# 📺 CLASSIC TV / BINGE
+########################
+#EXTINF:-1 group-title="Classic TV",Pluto TV TV Land
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4b0f5b6c5c2f0009c3f8b7/master.m3u8
+
+#EXTINF:-1 group-title="Classic TV",Happy Days Channel
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7796d5a7f11b0007d6a3b8/master.m3u8
+
+########################
+# 📚 DOCUMENTARY
+########################
+#EXTINF:-1 group-title="Documentary",Curiosity Stream (Free Feed)
+https://dai.google.com/linear/hls/event/YZs7v0k2R3W0T4pQx6a1PQ/master.m3u8
+
+#EXTINF:-1 group-title="Documentary",NatureVision TV
+https://uni6rtmp.tulix.tv/naturevision/index.m3u8
+
+########################
+# 🎮 TECH / GAMING
+########################
+#EXTINF:-1 group-title="Tech",IGN
+https://ign.akamaized.net/hls/live/2020102/ign/master.m3u8
+
+########################
+# 🎵 MUSIC
+########################
+#EXTINF:-1 group-title="Music",Vevo Pop
+https://dai.google.com/linear/hls/event/PrmR8l5hQk6l7P9W0l2s4Q/master.m3u8
+
+#EXTINF:-1 group-title="Music",Vevo Hip-Hop
+https://dai.google.com/linear/hls/event/6v2L0g4Q7l9P3r5s8T1k2Q/master.m3u8
+
+########################
+# 👶 KIDS
+########################
+#EXTINF:-1 group-title="Kids",Pluto TV Kids
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8
+
+#EXTINF:-1 group-title="Kids",PBS Kids (Alt Feed)
+https://dai.google.com/linear/hls/event/6Z9l4w8Qx9T1p2R5s7y3zA/master.m3u8
